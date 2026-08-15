@@ -1,4 +1,4 @@
-# Task 2: Tic-Tac-Toe with Minimax AI
+#  Tic-Tac-Toe with Minimax AI
 
 A terminal-based Tic-Tac-Toe game where the player competes against an unbeatable AI opponent powered by the Minimax algorithm.
 
